@@ -1,7 +1,7 @@
 # Гилязов А.А.
 
 def my_superfunction():
-    print("What an awesome print!")
+    print("Hello, friends!")
 
 
 def main():
