@@ -1,2 +1,2 @@
-print("Hello Git!")
-print("Hello Conflict!")
+print("hello git!")
+print("hello conflict!")
